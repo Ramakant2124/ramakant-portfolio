@@ -1011,7 +1011,7 @@ body.dark .aside .nav li a{
   padding: 60px 0; /* Add spacing if needed */
 }
  .skills{
-    margin-left: 20px;
+    margin-left: 0px;
 }
 .skills.experience{
     -ms-flex: 0 0 50%;
